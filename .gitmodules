@@ -2,3 +2,11 @@
 	path = sst-core
 	url = https://github.com/sstsimulator/sst-core.git
 	branch = master
+[submodule "sst-elements"]
+	path = sst-elements
+	url = https://github.com/sstsimulator/sst-elements.git
+	branch = master
+[submodule "sst-macro"]
+	path = sst-macro
+	url = https://github.com/sstsimulator/sst-macro.git
+	branch = master
