@@ -1,0 +1,4 @@
+[submodule "sst-core"]
+	path = sst-core
+	url = https://github.com/sstsimulator/sst-core.git
+	branch = master
