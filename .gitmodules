@@ -10,3 +10,7 @@
 	path = sst-macro
 	url = https://github.com/sstsimulator/sst-macro.git
 	branch = master
+[submodule "sst-tools"]
+	path = sst-tools
+	url = https://github.com/sstsimulator/sst-tools.git
+	branch = master
